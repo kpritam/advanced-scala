@@ -1,4 +1,4 @@
-package kpritam.set
+package kpritam
 
 import scala.annotation.tailrec
 
